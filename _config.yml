@@ -1,11 +1,11 @@
 # Site settings
-author: Jessica Gamez
-title: 
+author: Jess Gamez 
+title: Long Journey into Software Engineering 
 header-img: img/home-bg.png
 email: jpgamez1789@icloud.com
-copyright_name: Jessica Gamez
+copyright_name: Jess Gamez 
 description: > # this means to ignore newlines until "baseurl:"
-  
+  Coding 
 baseurl: "" # the subpath of your site, e.g. /blog
 twitter_username: 
 github_username:  JGamez17
